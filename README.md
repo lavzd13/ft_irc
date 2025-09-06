@@ -15,4 +15,4 @@ Usage of server is as follows: `./ircserv <port> <password>`.
 Once the server is up and running you can connect to it through IRC client or `nc` command.
 
 Example (using `irssi`):  
-`irssi -c <server_ip> -p <server_port -w <server_pass>` optional `-n <desired_nickname>`.
+`irssi -c <server_ip> -p <server_port> -w <server_pass>` optional `-n <desired_nickname>`.
